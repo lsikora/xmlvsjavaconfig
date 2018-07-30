@@ -1,0 +1,9 @@
+
+${AnsiBackground.RED}
+ ${AnsiBackground.RED}${AnsiColor.WHITE}____ ${AnsiBackground.RED}${AnsiColor.WHITE}____ ${AnsiBackground.RED}${AnsiColor.WHITE}____ ${AnsiBackground.RED}${AnsiColor.WHITE}____ ${AnsiBackground.RED}${AnsiColor.WHITE}____ ${AnsiBackground.RED}${AnsiColor.WHITE}____ ${AnsiBackground.RED}${AnsiColor.WHITE}____
+${AnsiBackground.RED}${AnsiColor.WHITE}||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}L${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}|||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}S${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}|||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}I${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}|||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}K${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}|||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}O${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}|||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}R${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}|||${AnsiBackground.RED}${AnsiStyle.BOLD}${AnsiColor.GREEN}A${AnsiColor.RED}${AnsiBackground.RED} ${AnsiStyle.NORMAL}${AnsiBackground.RED}${AnsiColor.WHITE}||
+${AnsiBackground.RED}${AnsiColor.WHITE}||__|||__|||__|||__|||__|||__|||__||
+${AnsiBackground.RED}${AnsiColor.WHITE}|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+${AnsiBackground.RED}
+${AnsiBackground.RED}${AnsiColor.GREEN}Z ${AnsiColor.GREEN}<http://www.patorjk.com/software/taag/#p=display&f=Small%20Keyboard&t=LSIKORA>${AnsiColor.RED}${AnsiBackground.RED}
+${AnsiBackground.RED}

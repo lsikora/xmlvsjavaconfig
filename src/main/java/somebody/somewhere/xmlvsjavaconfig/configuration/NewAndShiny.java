@@ -6,18 +6,18 @@ import somebody.somewhere.xmlvsjavaconfig.commonbeans.*;
 
 @Configuration
 public class NewAndShiny {
+    @Bean
+    public static GreatNorthernBean greatNorthernBean() {
+        return new GreatNorthernBean();
+    }
 
     @Bean
     public static PintoBean pintoBean() {
         return new PintoBean();
     }
 
-    public BlackBean blackBean() {
-        return new BlackBean();
-    }
-
     @Bean
-    private KidneyBean kidneyBean() {
+    public static KidneyBean kidneyBean() {
         return new KidneyBean();
     }
 
@@ -36,8 +36,4 @@ public class NewAndShiny {
         return new MrBean();
     }
 
-    @Bean
-    public final GreatNorthernBean greatNorthernBean() {
-        return new GreatNorthernBean();
-    }
 }

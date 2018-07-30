@@ -1,4 +1,4 @@
 package somebody.somewhere.xmlvsjavaconfig.commonbeans;
 
-public class PintoBean {
+public class PintoBean implements CommonBean {
 }
