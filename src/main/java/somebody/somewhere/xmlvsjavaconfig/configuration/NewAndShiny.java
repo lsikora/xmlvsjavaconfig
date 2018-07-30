@@ -2,12 +2,42 @@ package somebody.somewhere.xmlvsjavaconfig.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import somebody.somewhere.xmlvsjavaconfig.commonbeans.BlackBean;
+import somebody.somewhere.xmlvsjavaconfig.commonbeans.*;
 
 @Configuration
 public class NewAndShiny {
 
-    public final BlackBean blackBean(){
+    @Bean
+    public static PintoBean pintoBean() {
+        return new PintoBean();
+    }
+
+    public BlackBean blackBean() {
         return new BlackBean();
+    }
+
+    @Bean
+    private KidneyBean kidneyBean() {
+        return new KidneyBean();
+    }
+
+    @Bean
+    LimaBean limaBean() {
+        return new LimaBean();
+    }
+
+    @Bean
+    protected BlackedEyePea blackedEyePea() {
+        return new BlackedEyePea();
+    }
+
+    @Bean
+    public MrBean mrBean() {
+        return new MrBean();
+    }
+
+    @Bean
+    public final GreatNorthernBean greatNorthernBean() {
+        return new GreatNorthernBean();
     }
 }
